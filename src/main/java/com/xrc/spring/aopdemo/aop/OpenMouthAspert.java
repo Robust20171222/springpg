@@ -6,6 +6,11 @@ import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.stereotype.Component;
 
+
+/***
+ * 需张口动作的拦截器
+ */
+
 @Aspect
 @Component
 public class OpenMouthAspert {
