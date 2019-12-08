@@ -1,4 +1,4 @@
-package com.xrc.springpg;
+package com.xrc.springwebpg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
